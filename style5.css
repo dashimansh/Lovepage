@@ -1,0 +1,24 @@
+*{padding: 0;margin:0;}
+.container{height: 100vh;  
+    width:100vw;
+    color:#444;
+    background:#ffe7e3;
+    text-align:center}
+    .forgive,.yes,.no
+
+    .love{
+        padding-top: 25%;
+    }
+      h2{font-size:52px;margin-bottom:30px;}
+   
+    .forgive span{color:#fc9786;}
+     .forgive a{text-decoration: none;
+        background: #eee;
+        padding: 5px;
+        margin:5px 10px;
+        border:3px solid #ddd; 
+        border-radius:10px;  
+    }
+     #no{color:red;}
+     #yes{color:green;} 
+   
